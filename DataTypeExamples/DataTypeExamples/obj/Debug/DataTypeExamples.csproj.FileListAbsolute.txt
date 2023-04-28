@@ -1,0 +1,8 @@
+C:\Users\Apex Gaming PCs\source\repos\BeginnerTutorial\DataTypeExamples\DataTypeExamples\bin\Debug\DataTypeExamples.exe.config
+C:\Users\Apex Gaming PCs\source\repos\BeginnerTutorial\DataTypeExamples\DataTypeExamples\bin\Debug\DataTypeExamples.exe
+C:\Users\Apex Gaming PCs\source\repos\BeginnerTutorial\DataTypeExamples\DataTypeExamples\bin\Debug\DataTypeExamples.pdb
+C:\Users\Apex Gaming PCs\source\repos\BeginnerTutorial\DataTypeExamples\DataTypeExamples\obj\Debug\DataTypeExamples.csproj.AssemblyReference.cache
+C:\Users\Apex Gaming PCs\source\repos\BeginnerTutorial\DataTypeExamples\DataTypeExamples\obj\Debug\DataTypeExamples.csproj.SuggestedBindingRedirects.cache
+C:\Users\Apex Gaming PCs\source\repos\BeginnerTutorial\DataTypeExamples\DataTypeExamples\obj\Debug\DataTypeExamples.csproj.CoreCompileInputs.cache
+C:\Users\Apex Gaming PCs\source\repos\BeginnerTutorial\DataTypeExamples\DataTypeExamples\obj\Debug\DataTypeExamples.exe
+C:\Users\Apex Gaming PCs\source\repos\BeginnerTutorial\DataTypeExamples\DataTypeExamples\obj\Debug\DataTypeExamples.pdb
